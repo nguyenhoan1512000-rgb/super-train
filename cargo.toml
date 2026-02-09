@@ -1,0 +1,9 @@
+[package]
+name = "super-train"
+version = "1.93.0"
+edition = "2026"
+authors = ["nguyenhoan1512000-rgb"]
+description = "A small Rust project for learning and testing."
+license = "MIT"
+[dependencies]
+rand = "0.1.0"
